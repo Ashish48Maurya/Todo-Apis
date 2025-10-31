@@ -1,4 +1,4 @@
-# 📝 Todo API — Full Stack Task Management Backend
+# 📝 Todo API
 
 A complete **RESTful API** built using **Node.js, Express, Sequelize (PostgreSQL)** for managing users and their todo tasks.  
 This project includes **JWT-based authentication**, **cron jobs** for automated task notifications, and is **deployed on AWS**.
